@@ -1,6 +1,7 @@
 # CS465-Fullstack Development with MEAN
 
-Architecture
+**Architecture**
+
 •	Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
 The Express frontend renders HTML pages and handles routing on the server, while Angular runs in the browser as a single-page application (SPA). Express reloads pages on each request, but Angular dynamically updates views with client-side routing for smoother and fasting interactions. 
 •	Why did the backend use a NoSQL MongoDB database?
