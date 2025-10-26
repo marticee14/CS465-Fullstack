@@ -9,7 +9,7 @@ The Express frontend renders HTML pages and handles routing on the server, while
 •	*Why did the backend use a NoSQL MongoDB database?*
 
 The backend uses a NoSQL MongoDB for it’s flexibility, scalability, and ability to store unstructured travel data as JSON documents.
-
+---
 **Functionality**
 
 •	*How is JSON different from Javascript and how does JSON tie together the frontend and backend development pieces?*
@@ -17,13 +17,13 @@ The backend uses a NoSQL MongoDB for it’s flexibility, scalability, and abilit
 JSON is a data format that transmits information between the frontend and backend. JavaScript runs logic in the browser, and JSON allows MongoDB to populate Angular views. 
 
 •	*Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components.*
-
+---
 **Testing**
 
 •	*Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security.*
 
 I used Postman to test and verify GET and PUT endpoints. The /api/trips was tested with JSON data to confirm successful database updates. After that, Angular’s HTTP client was used to confirm frontend interaction. 
-
+---
 **Reflection**
 
 •	*How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?*
