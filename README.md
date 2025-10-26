@@ -17,8 +17,6 @@ The backend uses a NoSQL MongoDB for it’s flexibility, scalability, and abilit
 
 JSON is a data format that transmits information between the frontend and backend. JavaScript runs logic in the browser, and JSON allows MongoDB to populate Angular views. 
 
-•	*Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components.*
-
 ---
 **Testing**
 
